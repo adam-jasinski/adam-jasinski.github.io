@@ -13,7 +13,7 @@ Poniżej znajduje się lista najpopularniejszych języków programowania:
 | C++ page | [Zobacz więcej](/c++_page/) |
 | Java page | [Zobacz więcej](/java_page/) |
 | C page | [Zobacz więcej](/c_page/) |
-| C# page | [Zobacz więcej](/csharp_page/) |
+| C# page | [Zobacz więcej](/c-_page/) |
 | JavaScript page | [Zobacz więcej](/javascript_page/) |
 | SQL page | [Zobacz więcej](/sql_page/) |
 | Go page | [Zobacz więcej](/go_page/) |
