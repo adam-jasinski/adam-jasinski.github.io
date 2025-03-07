@@ -1,7 +1,0 @@
----
-title: "Go page"
-date: 2025-03-06
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/230px-Go_Logo_Blue.svg.png"
----
-
-Gois ahigh-levelgeneral purpose programming languagethat isstatically typedandcompiled. It is known for the simplicity of its syntax and the efficiency of development that it enables by the inclusion of a large standard library supplying many needs for common projects.[12]It was designed atGoogle[13]in 2009 byRobert Griesemer,Rob Pike, andKen Thompson.[4]It issyntacticallysimilar toC, but also hasmemory safety,garbage collection,structural typing,[7]andCSP-styleconcurrency.[14]It is often referred to asGolangto avoid ambiguity and because of its former domain name,golang.org, but its proper name is Go.[15]
