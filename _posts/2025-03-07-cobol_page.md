@@ -1,0 +1,8 @@
+---
+title: "COBOL page"
+date: 2025-03-06
+---
+
+COBOL(/ˈkoʊbɒl,-bɔːl/; anacronymfor "common business-oriented language") is acompiledEnglish-likecomputer programming languagedesigned for business use. It is animperative,procedural, and, since 2002,object-orientedlanguage. COBOL is primarily used in business, finance, and administrative systems for companies and governments. COBOL is still widely used in applications deployed onmainframe computers, such as large-scalebatchandtransaction processingjobs. Many large financial institutions were developing new systems in the language as late as 2006,[10]but most programming in COBOL today is purely to maintain existing applications. Programs are being moved to new platforms, rewritten in modern languages, or replaced with other software.[11]
+
+![COBOL page Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/COBOL_Report_Apr60.djvu/page1-121px-COBOL_Report_Apr60.djvu.jpg)
